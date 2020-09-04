@@ -16499,6 +16499,7 @@ public function saveImageFromChrome()
 
     public function myfunction(){
         echo "hello world";
+        echo "Hi";
     }
                                            
 	
