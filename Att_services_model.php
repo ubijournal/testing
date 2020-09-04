@@ -16496,6 +16496,10 @@ public function saveImageFromChrome()
     	echo json_encode($data,JSON_NUMERIC_CHECK);
 
     }
+
+    public function myfunction(){
+        echo "hello world";
+    }
                                            
 	
 	
